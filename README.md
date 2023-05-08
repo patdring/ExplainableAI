@@ -18,7 +18,3 @@ This repository contains a collection of Jupyter notebooks that demonstrate vari
 ## Usage
 
 To use these notebooks, simply open them in Google Colaboratory and follow the instructions in each notebook.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
