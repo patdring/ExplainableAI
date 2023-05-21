@@ -9,9 +9,11 @@ This repository contains a collection of Jupyter notebooks that demonstrate vari
 - `FeatureAblation.ipynb`: This notebook demonstrates how to perform feature ablation to understand the importance of different features in a deep learning model.
 - `FilterFeatureVisualization.ipynb`: This notebook shows how to visualize the filters and features learned by a convolutional neural network.
 - `GradCam.ipynb`: This notebook demonstrates how to use Grad-CAM to generate class activation maps that highlight the important regions of an image for a given class.
+- `IntegratedGradients.ipynb`: This notebook shows how to use occlusion to explain the predictions of a object detection model.
 - `IntegratedGradientsGradientShapOcclusionNoiseTunnel.ipynb`: This notebook shows how to use various attribution methods, such as integrated gradients, gradient SHAP, occlusion, and noise tunnel, to explain the predictions of a deep learning model.
 - `LIME.ipynb`: This notebook demonstrates how to use LIME (Local Interpretable Model-agnostic Explanations) to explain the predictions of a deep learning model.
 - `ModelVisualizer.ipynb`: This notebook shows how to visualize the architecture of a deep learning model using Graphviz.
+- `Occlusion.ipynb`: This notebook shows how to use occlusion to explain the predictions of a segmentation model.
 - `TCAV.ipynb`: This notebook demonstrates how to use TCAV (Testing with Concept Activation Vectors) to interpret the predictions of a deep learning model.
 - `TracInCPFast.ipynb`: This notebook shows how to use the TracInCPFast algorithm to interpret the predictions of a convolutional neural network.
 
