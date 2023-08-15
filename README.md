@@ -1,6 +1,6 @@
 # Explainable AI (XAI) and Computer Vision Techniques for Interpretable and Safe Autonomous Driving
 
-This repository contains a collection of Jupyter notebooks that demonstrate various techniques for eXplainable AI (XAI) and Computer Vision in the context of autonomous driving. These notebooks were created using [Google Colaboratory](https://colab.research.google.com/), Python and Jupyter Notebooks.
+This repository contains a collection of notebooks that demonstrate various techniques for eXplainable AI (XAI) and Computer Vision in the context of autonomous driving. These notebooks were created using [Google Colaboratory](https://colab.research.google.com/), [Python](https://www.python.org/) and [Jupyter](https://jupyter.org/) Notebooks.
 
 ## Notebooks
 
